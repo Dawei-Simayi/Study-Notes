@@ -38,3 +38,15 @@ maxRequestSize 和 totalMemorySize
 
 ### Call back function
 
+## Network
+
+### NIO
+
+在启动Kafka client 的时候，会通过多线程的方式，
+
+#### KafkaClient
+
+
+
+### Selector
+
