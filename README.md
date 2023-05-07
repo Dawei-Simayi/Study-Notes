@@ -4,6 +4,8 @@
 
 1. 学习Kafka源码
 2. 掌握Typescript
+3. 学习另外一个MQ的源码
+4. 学习Nett的源码
 
 ## 思想
 
